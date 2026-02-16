@@ -1,0 +1,6 @@
+# AdMob verification for Masnoon Duain App
+google.com, pub-2824593196273602, DIRECT, f08c47fec0942fa0
+
+# Added on 16-Feb-2026
+# Future apps will also use the line above
+# We dont need to create this app-ads.txt file for our other apps, All apps use the same
